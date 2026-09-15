@@ -9,7 +9,6 @@
   <!-- Tailwind CSS CDN -->
   <script src="https://cdn.tailwindcss.com"></script>
   <!-- Tesseract.js (用於 OCR 單據辨識) -->
-  <script src="https://cdn.jsdelivr.net/npm/tesseract.js@5/dist/tesseract.min.js"></script>
 </head>
 <body class="bg-slate-100 min-h-screen pb-12 text-slate-800">
   <!-- 頂部導覽列 -->
