@@ -5,7 +5,6 @@ const ASSETS = [
   './app.js',
   './manifest.json',
   'https://cdn.tailwindcss.com',
-  'https://cdn.jsdelivr.net/npm/tesseract.js@5/dist/tesseract.min.js'
 ];
 
 self.addEventListener('install', (e) => {
