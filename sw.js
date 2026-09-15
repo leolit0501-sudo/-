@@ -4,7 +4,7 @@ const ASSETS = [
   './index.html',
   './app.js',
   './manifest.json',
-  'https://cdn.tailwindcss.com',
+  'https://cdn.tailwindcss.com'
 ];
 
 self.addEventListener('install', (e) => {
