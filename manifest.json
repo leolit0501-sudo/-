@@ -1,0 +1,20 @@
+{
+  "name": "SmartExpense PWA",
+  "short_name": "SmartExpense",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4F46E5",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192.png?text=App",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512.png?text=App",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
